@@ -1,0 +1,10 @@
+for sequential we can only map one input to one output. Convinient, but not flexible
+for functional we can handle multiple inputs and outputs. more flexible
+
+Sigmoid is used for binary classification,
+while SoftMax applies to multiclass problems
+
+if labels are one hot encoded, use categorical_crossentropy
+if its not, and y is just a label 8 for example, use sparse categorical cross entropy
+
+batch normalizer normalizers the data so trianing is faster, but it also has a regularization effect of 
