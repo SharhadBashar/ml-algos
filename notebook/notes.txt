@@ -8,3 +8,13 @@ if labels are one hot encoded, use categorical_crossentropy
 if its not, and y is just a label 8 for example, use sparse categorical cross entropy
 
 batch normalizer normalizers the data so trianing is faster, but it also has a regularization effect of 
+
+
+Data download:
+1. Churn
+https://github.com/nicknochnack/Tensorflow-in-10-Minutes
+
+2. Adult Census
+https://github.com/pooja2512/Adult-Census-Income
+
+3. 
