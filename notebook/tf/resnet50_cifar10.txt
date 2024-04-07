@@ -1,0 +1,5 @@
+https://github.com/frlim/data2040_final/blob/master/project_2/CNN_Final.ipynb
+https://notebook.community/rnoxy/cifar10-cnn/Feature_extraction_with_fine_tuned_pretrained_ResNet50_using_keras
+https://www.kaggle.com/code/mostafasamerdorrah/cifar-10-using-resnet50-0-83050 -> used this
+https://www.youtube.com/watch?v=B-1qwKvJI64&ab_channel=Siddhardhan
+https://www.kaggle.com/code/kutaykutlu/resnet50-transfer-learning-cifar-10-beginner
